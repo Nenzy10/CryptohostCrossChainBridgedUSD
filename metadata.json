@@ -2,10 +2,10 @@
   "name": "Cryptohost Bridged USD",
   "symbol": "CUSD",
   "description": "A cross-chain stablecoin bridging traditional banking to blockchain. #BEP20 #DeFi #CrossChain #Stablecoin #Cryptohost",
-  "image": "https://i.postimg.cc/3xkRg9x9/CUSD.png", // Your logo URL
-  "website": "https://cryptohostcrosschainbridgedusd.com", // Future website
+  "image": "https://i.postimg.cc/3xkRg9x9/CUSD.png",
+  "website": "https://cryptohostcrosschainbridgedusd.com",
   "social": {
-    "telegram": "https://t.me/Nenzybrown", // Telegram link
-    "twitter": "https://twitter.com/Nenzybrown" // Twitter link
+    "telegram": "https://t.me/Nenzybrown",
+    "twitter": "https://twitter.com/Nenzybrown"
   }
 }

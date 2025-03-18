@@ -3,7 +3,7 @@
   "symbol": "CUSD",
   "description": "A cross-chain stablecoin bridging traditional banking to blockchain.",
   "image": "https://raw.githubusercontent.com/Nenzy10/CryptohostCrossChainBridgedUSD/refs/heads/main/CUSD.svg",
-  "website": "https://cryptohostcrosschainbridgedusd.com",
+  "website": "https://cryptohostcrosschainbridgedusd.netlify.app",
   "social": {
     "telegram": "https://t.me/Nenzybrown",
     "twitter": "https://twitter.com/Nenzybrown"

@@ -1,11 +1,14 @@
 {
   "name": "Cryptohost Bridged USD",
   "symbol": "CUSD",
-  "description": "A cross-chain stablecoin bridging traditional banking to blockchain.",
+  "description": "Cryptohost Bridged USD (CUSD) is a cross-chain stablecoin that bridges traditional finance with blockchain ecosystems. Designed to provide liquidity and enable seamless transactions, CUSD enhances decentralized finance (DeFi) platforms by maintaining a stable value and enabling efficient cross-chain transfers.",
   "image": "https://raw.githubusercontent.com/Nenzy10/CryptohostCrossChainBridgedUSD/refs/heads/main/CUSD.svg",
   "website": "https://cryptohostcrosschainbridgedusd.netlify.app",
   "social": {
     "telegram": "https://t.me/Nenzybrown",
     "twitter": "https://twitter.com/Nenzybrown"
-  }
+  },
+  "contract_address": "https://bscscan.com/address/0x6665B556A5e46A314d45334368fD56A65A5979FA",
+  "coingecko_link": "https://www.geckoterminal.com/bsc/pools/0x8d2a176280acc13fb09ed3662d275c1ec54e5417",
+  "coinmarketcap_dex_link": "https://coinmarketcap.com/dexscan/bsc/0x8d2a176280acc13fb09ed3662d275c1ec54e5417/"
 }
